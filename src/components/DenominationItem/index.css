@@ -1,0 +1,18 @@
+.denominator-container {
+  list-style-type: none;
+  width: 50%;
+}
+
+.button-value {
+  background-color: #382f5a;
+  border: 1px solid #d4d2db;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #d4d2db;
+  width: 100%;
+  cursor: pointer;
+  outline: none;
+}
